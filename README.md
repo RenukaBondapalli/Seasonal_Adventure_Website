@@ -24,7 +24,3 @@ A dynamic and interactive web application that offers personalized travel destin
 ## 🚀 Live Demo
 
 👉 [Click here to view the live site](https://renukabondapalli.github.io/Seasonal_Adventure_Website/)
-
-
-
-
